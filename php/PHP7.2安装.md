@@ -1,4 +1,6 @@
-# 安装
+# 3. PHP编译安装
+
+## 安装
 
 > tar -zxf php-7.2.15.tar.gz
 > cd php-7.2.15
