@@ -30,7 +30,7 @@ echo implode(',', $a), PHP_EOL;
 
 
 
-{% hint style="info" %}
+{% hint style="error" %}
 上面是错的
 {% endhint %}
 
@@ -38,7 +38,11 @@ echo implode(',', $a), PHP_EOL;
 
 
 
-\`\`\` 1,2,3 1,2,3 1,2,2
+```text
+ 1,2,3 
+ 1,2,3
+ 1,2,2
+```
 
 ```text
 第三个应该是： 1,2,2
