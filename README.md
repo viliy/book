@@ -1,4 +1,4 @@
 # README
 
-just book
+菜鸡的随记
 
