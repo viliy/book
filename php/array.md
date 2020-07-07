@@ -1,4 +1,4 @@
-# The First Array
+# 2. The First Array
 
 Let me thinking
 
