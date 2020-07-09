@@ -16,6 +16,15 @@ foreach ($data as $k => $v) {
     $v = &$data[$k];  // $v = &$data[0] = 'a'; $v = &$data[1] = 'b'; $v = &$data[2] = 'c';
 }
 
+print_r($data);
+
+//    Array
+//    (
+//        [0] => b
+//        [1] => c
+//        [2] => c
+//    )
+
 for($i = 0; $i < count($data); $i++) {
     $info = $data[$i];
     $info = &$data[$i];
@@ -27,7 +36,7 @@ print_r($data);
 //    (
 //        [0] => c
 //        [1] => c
-//    [2] => c
+//        [2] => c
 //    )
 
 ```
@@ -42,7 +51,7 @@ $arr = ['a', 'b', 'c'];
 
 foreach ($arr as $key => $value) {}
 
-echo "$k - $value";
+echo "$key - $value";
 
 // 2 - c
 
