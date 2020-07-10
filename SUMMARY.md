@@ -13,4 +13,5 @@
 * [Linux](linux/README.md)
   * [1. Split](linux/split.md)
   * [2. fopen](linux/fopen.md)
+  * [3. RabbitMQ](linux/rabbit.md)
 
