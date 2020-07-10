@@ -10,4 +10,6 @@
   * [6. Foreach](php/foreach.md)
 * [ALGORITHM-PHP](algorithm-php/README.md)
   * [1. solution](algorithm-php/solution.md)
+* [Linux](linux/README.md)
+  * [1. Split](linux/split.md)
 
