@@ -12,4 +12,5 @@
   * [1. solution](algorithm-php/solution.md)
 * [Linux](linux/README.md)
   * [1. Split](linux/split.md)
+  * [2. fopen](linux/fopen.md)
 
