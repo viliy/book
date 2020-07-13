@@ -8,10 +8,10 @@
   * [4. PHP\_FPM](php/php-fpm.md)
   * [5. 单例模式](php/signleton.md)
   * [6. Foreach](php/foreach.md)
+  * [7. Fopen](php/fopen.md)
 * [ALGORITHM-PHP](algorithm-php/README.md)
   * [1. solution](algorithm-php/solution.md)
 * [Linux](linux/README.md)
   * [1. Split](linux/split.md)
-  * [2. fopen](linux/fopen.md)
-  * [3. RabbitMQ](linux/rabbit.md)
-
+* [Other](other/README.md)
+  * [1. RabbitMQ](other/rabbit.md)
